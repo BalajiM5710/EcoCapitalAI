@@ -6,7 +6,7 @@ import plotly.express as px
 
 # Page Configurations
 st.set_page_config(
-    page_title="GreenVestify",
+    page_title="EcoCapitalAI",
     page_icon="🌱",
     layout="wide"
 )
@@ -151,4 +151,4 @@ elif page == "Dashboard":
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.markdown("GreenVestify © 2025")
+st.sidebar.markdown("EcoCapitalAI © 2025")
